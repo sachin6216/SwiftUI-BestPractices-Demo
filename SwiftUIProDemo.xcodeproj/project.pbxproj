@@ -27,6 +27,7 @@
 		04E76CC22E6A204700F024F7 /* MockUserUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E76CC12E6A204700F024F7 /* MockUserUseCase.swift */; };
 		04E76CC42E6A205F00F024F7 /* MockAppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E76CC32E6A205F00F024F7 /* MockAppCoordinator.swift */; };
 		04E76CC62E6A20AC00F024F7 /* UserUseCaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E76CC52E6A20AC00F024F7 /* UserUseCaseTests.swift */; };
+		04E76CCA2E6A229C00F024F7 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 04E76CC92E6A229C00F024F7 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		04E76CC12E6A204700F024F7 /* MockUserUseCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockUserUseCase.swift; sourceTree = "<group>"; };
 		04E76CC32E6A205F00F024F7 /* MockAppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockAppCoordinator.swift; sourceTree = "<group>"; };
 		04E76CC52E6A20AC00F024F7 /* UserUseCaseTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserUseCaseTests.swift; sourceTree = "<group>"; };
+		04E76CC92E6A229C00F024F7 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		04E76C352E6A176200F024F7 = {
 			isa = PBXGroup;
 			children = (
+				04E76CC92E6A229C00F024F7 /* Readme.md */,
 				04E76C402E6A176200F024F7 /* SwiftUIProDemo */,
 				04E76CB12E6A1F1C00F024F7 /* SwiftUIProDemoTests */,
 				04E76C3F2E6A176200F024F7 /* Products */,
@@ -361,6 +364,7 @@
 			files = (
 				04E76C492E6A176D00F024F7 /* Preview Assets.xcassets in Resources */,
 				04E76C462E6A176D00F024F7 /* Assets.xcassets in Resources */,
+				04E76CCA2E6A229C00F024F7 /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
