@@ -1,4 +1,5 @@
 import SwiftUI
+import Foundation
 
 enum NavigationAction {
     case showUserDetail(User)
