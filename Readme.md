@@ -1,8 +1,8 @@
-**📱 SwiftUI Professional Demo Project**
+** SwiftUI Professional Demo Project**
 
-I've created a comprehensive SwiftUI demo project that showcases professional iOS development practices. This project demonstrates clean architecture, protocol-oriented design, reactive programming with Combine, and robust testing strategies—making it an ideal reference for scalable, maintainable SwiftUI applications.
+I've created a comprehensive SwiftUI demo project that showcases professional iOS development practices. This project demonstrates clean architecture, protocol-oriented design, reactive programming with Combine, and robust testing strategies making it an ideal reference for scalable, maintainable SwiftUI applications.
 
-**🏗️ Architecture & Patterns Implemented**
+** Architecture & Patterns Implemented**
 1. MVVM-C (Model-View-ViewModel-Coordinator)
     Clear separation of concerns
     Coordinators manage navigation logi
@@ -31,26 +31,26 @@ I've created a comprehensive SwiftUI demo project that showcases professional iO
     ISP: Modular, focused interfaces
     DIP: Inversion of dependencies using abstractions
 
-**🚀 Key Features**
+** Key Features**
 
-✅ Reactive Programming: Powered by Combine for seamless data flow
+Reactive Programming: Powered by Combine for seamless data flow
 
-❌ Error Handling: Centralized and extensible via NetworkError
+Error Handling: Centralized and extensible via NetworkError
 
-🌐 Networking: Generic, protocol-oriented network layer
+Networking: Generic, protocol-oriented network layer
 
-🧭 Navigation: Decoupled with the Coordinator pattern
+Navigation: Decoupled with the Coordinator pattern
 
-🎨 Reusable UI Components: Modular, scalable SwiftUI views
+Reusable UI Components: Modular, scalable SwiftUI views
 
-♻️ Memory Management: Proper handling of AnyCancellable subscriptions
+Memory Management: Proper handling of AnyCancellable subscriptions
 
-**🧪 Testing**
+**Testing**
 
-📦 Complete unit test suite with mock-based architecture
+Complete unit test suite with mock-based architecture
 
-✅ Tests for both use cases and view models
+Tests for both use cases and view models
 
-🧪 XCTest expectations for async Combine pipelines
+XCTest expectations for async Combine pipelines
 
-🔁 Follows best practices: clear setup/teardown, isolated tests
+Follows best practices: clear setup/teardown, isolated tests
