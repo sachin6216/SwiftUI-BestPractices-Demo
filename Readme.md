@@ -1,8 +1,8 @@
-** SwiftUI Professional Demo Project**
+**SwiftUI Professional Demo Project**
 
 I've created a comprehensive SwiftUI demo project that showcases professional iOS development practices. This project demonstrates clean architecture, protocol-oriented design, reactive programming with Combine, and robust testing strategies making it an ideal reference for scalable, maintainable SwiftUI applications.
 
-** Architecture & Patterns Implemented**
+**Architecture & Patterns Implemented**
 1. MVVM-C (Model-View-ViewModel-Coordinator)
     Clear separation of concerns
     Coordinators manage navigation logi
@@ -31,7 +31,7 @@ I've created a comprehensive SwiftUI demo project that showcases professional iO
     ISP: Modular, focused interfaces
     DIP: Inversion of dependencies using abstractions
 
-** Key Features**
+**Key Features**
 
 Reactive Programming: Powered by Combine for seamless data flow
 
